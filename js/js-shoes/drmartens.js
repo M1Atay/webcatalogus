@@ -1,0 +1,1 @@
+fetchData(`https://mbo-sd.nl/period3-fetch/clothes-shoe-dr-martens`);//fetch data wordt opgehaald

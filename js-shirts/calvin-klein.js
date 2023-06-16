@@ -1,0 +1,1 @@
+fetchData(`https://mbo-sd.nl/period3-fetch/clothes-shirt-calvin-klein`);//fetch data wordt opgehaald
